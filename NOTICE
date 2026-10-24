@@ -1,0 +1,8 @@
+hisense-a9-kernel
+Copyright 2026 dmayala
+
+Patches against the Linux kernel, GPL-2.0-only (COPYING), like the kernel.
+
+This repository contains no Hisense or Qualcomm firmware unless listed above.
+Device firmware, vendor binaries and the E Ink waveform are extracted by the
+user from their own phone and are not redistributed here.
